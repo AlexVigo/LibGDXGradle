@@ -1,0 +1,2 @@
+# LibGDXGradle
+LibGDX + Gradle 
